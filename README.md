@@ -6,7 +6,7 @@
 
 **MX5 Diagnostic Tool** is an open-source hardware and software solution designed to modernize diagnostics for the Mazda MX-5 (Miata) NA and NB generations.
 
-Unlike modern OBD2 vehicles, early Miatas use a proprietary diagnostic protocol located in the engine bay. This tool acts as a wireless bridge, plugging directly into the **Engine Bay Diagnostic Box**, allowing users to read fault codes, stream live data, and perform active tests via a wireless interface (WiFi/Bluetooth).
+Unlike modern OBD2 vehicles, early Miatas use a proprietary diagnostic protocol located in the engine bay. This tool wirelessly transmits diagnostic data directly to a smartphone, allowing users to view real-time stats, perform tests and fault codes right on their mobile screen.
 
 ## ⚡ Capabilities
 
